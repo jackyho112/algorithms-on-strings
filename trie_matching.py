@@ -32,7 +32,6 @@ def match_trie(text, trie):
         if result == True:
             matches.append(index)
 
-
         index += 1
         current_text = current_text[1:]
 
