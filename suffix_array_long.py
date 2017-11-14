@@ -1,3 +1,4 @@
+It's a C++ file
 // Construct the suffix array of a string.
 #include <iostream>
 #include <cstdio>
